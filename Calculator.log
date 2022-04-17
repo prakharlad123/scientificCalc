@@ -1,0 +1,7 @@
+17/Apr/2022:00:15:01 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 9.0INPUT22.0OUTPUT = 81.0
+17/Apr/2022:00:15:10 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 9.0INPUT23.0OUTPUT = 729.0
+17/Apr/2022:01:57:57 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 9.0INPUT22.0OUTPUT = 81.0
+17/Apr/2022:01:58:05 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 10.0OUTPUT = 3.1622776601683795
+17/Apr/2022:01:58:09 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 16.0OUTPUT = 4.0
+17/Apr/2022:02:02:16 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 25.0OUTPUT = 5.0
+17/Apr/2022:12:39:55 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 23.0INPUT22.0OUTPUT = 529.0

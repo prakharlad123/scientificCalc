@@ -9,7 +9,7 @@
         </File>
     </Appenders>
     <Loggers>
-    <Logger name="myController" level="INFO">
+    <Logger name="calculatorController" level="INFO">
         <AppenderRef ref="FileAppender"/>
     </Logger>
         <Root level="info">
