@@ -5,3 +5,104 @@
 17/Apr/2022:01:58:09 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 16.0OUTPUT = 4.0
 17/Apr/2022:02:02:16 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 25.0OUTPUT = 5.0
 17/Apr/2022:12:39:55 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 23.0INPUT22.0OUTPUT = 529.0
+17/Apr/2022:13:25:39 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 123.0OUTPUT = 2.089905111439398
+17/Apr/2022:16:46:54 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 96.0OUTPUT = 9.797958971132712
+17/Apr/2022:16:47:06 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 42.0INPUT22.0OUTPUT = 1764.0
+17/Apr/2022:16:47:15 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 81.0OUTPUT = 9.0
+17/Apr/2022:16:47:30 +0530 [calculatorController.java] [INFO] calculatorController [Factorial] - INPUT = 7.0OUTPUT = 5040.0
+17/Apr/2022:16:47:37 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 100.0OUTPUT = 2.0
+17/Apr/2022:16:47:46 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 144.0OUTPUT = 12.0
+17/Apr/2022:16:48:32 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 14.0INPUT23.0OUTPUT = 2744.0
+17/Apr/2022:16:48:41 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 188.0OUTPUT = 2.27415784926368
+17/Apr/2022:16:50:35 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 1883.0OUTPUT = 3.274850320016665
+17/Apr/2022:16:50:42 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 1777.0OUTPUT = 3.2496874278053016
+17/Apr/2022:16:50:51 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 175.0OUTPUT = 13.228756555322953
+17/Apr/2022:16:50:55 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 1778.0OUTPUT = 42.16633728461603
+17/Apr/2022:16:51:00 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 196.0OUTPUT = 14.0
+17/Apr/2022:17:00:28 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 197.0OUTPUT = 14.035668847618199
+17/Apr/2022:17:00:39 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 185.0OUTPUT = 13.601470508735444
+17/Apr/2022:17:00:46 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 45.0OUTPUT = 1.6532125137753437
+17/Apr/2022:17:00:53 +0530 [calculatorController.java] [INFO] calculatorController [Factorial] - INPUT = 4.0OUTPUT = 24.0
+    17/Apr/2022:17:01:36 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 47.0OUTPUT = 1.6720978579357175
+17/Apr/2022:17:01:38 +0530 [calculatorController.java] [INFO] calculatorController [Factorial] - INPUT = 47.0OUTPUT = 2.5862324151116827E59
+17/Apr/2022:17:01:41 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 47.0OUTPUT = 6.855654600401044
+17/Apr/2022:17:01:46 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 47.0INPUT23.0OUTPUT = 103823.0
+17/Apr/2022:17:01:53 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 74.0OUTPUT = 1.8692317197309762
+17/Apr/2022:17:01:55 +0530 [calculatorController.java] [INFO] calculatorController [Factorial] - INPUT = 74.0OUTPUT = 3.307885441519387E107
+17/Apr/2022:17:01:59 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 74.0OUTPUT = 8.602325267042627
+17/Apr/2022:17:02:02 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 74.0INPUT23.0OUTPUT = 405224.0
+17/Apr/2022:17:02:08 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 7.0OUTPUT = 0.8450980400142568
+17/Apr/2022:17:02:10 +0530 [calculatorController.java] [INFO] calculatorController [Factorial] - INPUT = 7.0OUTPUT = 5040.0
+17/Apr/2022:17:02:12 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 7.0OUTPUT = 2.6457513110645907
+17/Apr/2022:17:02:14 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 7.0INPUT23.0OUTPUT = 343.0
+17/Apr/2022:17:02:20 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 56.0OUTPUT = 1.7481880270062005
+17/Apr/2022:17:02:22 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 56.0OUTPUT = 7.483314773547883
+17/Apr/2022:17:02:25 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 56.0INPUT23.0OUTPUT = 175616.0
+17/Apr/2022:17:02:29 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 74.0OUTPUT = 1.8692317197309762
+17/Apr/2022:17:02:31 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 74.0OUTPUT = 8.602325267042627
+17/Apr/2022:17:02:34 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 74.0INPUT23.0OUTPUT = 405224.0
+17/Apr/2022:17:02:40 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 23.0OUTPUT = 1.3617278360175928
+17/Apr/2022:17:02:43 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 23.0OUTPUT = 4.795831523312719
+17/Apr/2022:17:02:46 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 23.0INPUT23.0OUTPUT = 12167.0
+17/Apr/2022:17:02:55 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 85.0OUTPUT = 9.219544457292887
+17/Apr/2022:17:02:58 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 85.0INPUT23.0OUTPUT = 614125.0
+17/Apr/2022:17:03:02 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 5.0OUTPUT = 0.6989700043360189
+17/Apr/2022:17:03:04 +0530 [calculatorController.java] [INFO] calculatorController [Factorial] - INPUT = 5.0OUTPUT = 120.0
+17/Apr/2022:17:03:06 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 5.0OUTPUT = 2.23606797749979
+17/Apr/2022:17:03:08 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 5.0INPUT23.0OUTPUT = 125.0
+17/Apr/2022:17:03:12 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 10.0OUTPUT = 1.0
+17/Apr/2022:17:03:14 +0530 [calculatorController.java] [INFO] calculatorController [Factorial] - INPUT = 10.0OUTPUT = 3628800.0
+17/Apr/2022:17:03:16 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 10.0OUTPUT = 3.1622776601683795
+17/Apr/2022:17:03:18 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 10.0INPUT23.0OUTPUT = 1000.0
+17/Apr/2022:17:03:22 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 14.0OUTPUT = 1.146128035678238
+17/Apr/2022:17:03:25 +0530 [calculatorController.java] [INFO] calculatorController [Factorial] - INPUT = 14.0OUTPUT = 8.71782912E10
+17/Apr/2022:17:03:28 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 14.0OUTPUT = 3.7416573867739413
+17/Apr/2022:17:03:30 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 14.0INPUT23.0OUTPUT = 2744.0
+17/Apr/2022:17:03:37 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 25.0OUTPUT = 1.3979400086720377
+17/Apr/2022:17:03:39 +0530 [calculatorController.java] [INFO] calculatorController [Factorial] - INPUT = 25.0OUTPUT = 1.5511210043330984E25
+17/Apr/2022:17:03:43 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 25.0INPUT23.0OUTPUT = 15625.0
+17/Apr/2022:17:03:46 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 25.0OUTPUT = 5.0
+17/Apr/2022:17:04:02 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 478.0OUTPUT = 2.6794278966121188
+17/Apr/2022:17:04:06 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 478.0INPUT23.0OUTPUT = 1.09215352E8
+17/Apr/2022:17:04:13 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 44.0OUTPUT = 1.6434526764861874
+17/Apr/2022:17:04:18 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 44.0OUTPUT = 6.6332495807108
+17/Apr/2022:17:04:20 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 44.0INPUT23.0OUTPUT = 85184.0
+17/Apr/2022:17:04:25 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 123.0OUTPUT = 2.089905111439398
+17/Apr/2022:17:04:29 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 123.0OUTPUT = 11.090536506409418
+17/Apr/2022:17:04:31 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 123.0INPUT23.0OUTPUT = 1860867.0
+17/Apr/2022:17:04:38 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 96.0OUTPUT = 1.9822712330395684
+17/Apr/2022:17:04:41 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 96.0OUTPUT = 9.797958971132712
+17/Apr/2022:17:04:43 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 96.0INPUT23.0OUTPUT = 884736.0
+17/Apr/2022:17:04:48 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 74123.0OUTPUT = 4.869952988319275
+17/Apr/2022:17:04:50 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 74123.0OUTPUT = 272.25539480421685
+17/Apr/2022:17:04:53 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 74123.0INPUT23.0OUTPUT = 4.07248004498867E14
+17/Apr/2022:17:04:57 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 741.0OUTPUT = 2.869818207979328
+17/Apr/2022:17:04:59 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 741.0OUTPUT = 27.2213151776324
+17/Apr/2022:17:05:01 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 741.0INPUT23.0OUTPUT = 4.06869021E8
+17/Apr/2022:17:05:06 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 456.0OUTPUT = 2.658964842664435
+17/Apr/2022:17:05:09 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 456.0OUTPUT = 21.354156504062622
+17/Apr/2022:17:05:11 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 456.0INPUT23.0OUTPUT = 9.4818816E7
+17/Apr/2022:17:05:17 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 789.0OUTPUT = 2.89707700320942
+17/Apr/2022:17:05:17 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 789.0OUTPUT = 2.89707700320942
+17/Apr/2022:17:05:20 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 789.0OUTPUT = 28.089143810376278
+17/Apr/2022:17:05:23 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 789.0INPUT23.0OUTPUT = 4.91169069E8
+17/Apr/2022:17:05:30 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 852.0OUTPUT = 2.9304395947667
+17/Apr/2022:17:05:32 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 852.0OUTPUT = 29.189039038652847
+17/Apr/2022:17:05:35 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 852.0INPUT23.0OUTPUT = 6.18470208E8
+17/Apr/2022:17:05:38 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 85.0OUTPUT = 1.9294189257142926
+17/Apr/2022:17:05:41 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 85.0OUTPUT = 9.219544457292887
+17/Apr/2022:17:05:44 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 85.0INPUT23.0OUTPUT = 614125.0
+17/Apr/2022:17:05:55 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 963.0OUTPUT = 2.9836262871245345
+17/Apr/2022:17:05:58 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 963.0OUTPUT = 31.0322412983658
+17/Apr/2022:17:06:00 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 963.0INPUT23.0OUTPUT = 8.93056347E8
+17/Apr/2022:17:06:07 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 5463.0OUTPUT = 3.7374312005145827
+17/Apr/2022:17:06:09 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 5463.0OUTPUT = 73.91210996852952
+17/Apr/2022:17:06:12 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 5463.0INPUT23.0OUTPUT = 1.63039787847E11
+17/Apr/2022:17:06:22 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 74575.0OUTPUT = 4.8725932620341
+17/Apr/2022:17:06:25 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 74575.0OUTPUT = 273.0842360884275
+17/Apr/2022:17:06:28 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 74575.0INPUT23.0OUTPUT = 4.14743688859375E14
+17/Apr/2022:17:06:38 +0530 [calculatorController.java] [INFO] calculatorController [Logarithm] - INPUT = 21.0OUTPUT = 1.3222192947339193
+17/Apr/2022:17:06:40 +0530 [calculatorController.java] [INFO] calculatorController [Factorial] - INPUT = 21.0OUTPUT = 5.109094217170944E19
+17/Apr/2022:17:06:42 +0530 [calculatorController.java] [INFO] calculatorController [Square Root] - INPUT = 21.0OUTPUT = 4.58257569495584
+17/Apr/2022:17:06:45 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 21.0INPUT23.0OUTPUT = 9261.0
+18/Apr/2022:15:29:09 +0530 [calculatorController.java] [INFO] calculatorController [Power] - INPUT1 = 9.0INPUT22.0OUTPUT = 81.0

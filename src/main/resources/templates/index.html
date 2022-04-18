@@ -339,17 +339,17 @@
                             <span>SCIENTIFIC</span>
                             <span>CALCULATOR</span>
                         </div>
-                        <p style="color: #2a5ce7">
+                        <p style="color: #2a5ce7; text-transform: uppercase;">
                             <br> <br> In this Calculator, we just <br> <br>  implement Power, Log base2,<br> <br> Factorial and Square root.
                         </p>
                     </div>
                     <div class="screen-body-item">
                         <div class="app-form">
                             <div class="app-form-group">
-                                <input id="input1" class="app-form-control" placeholder="INPUT 1">
+                                <input id="input1" class="app-form-control" placeholder="INPUT 1" autocomplete="off" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" />
                             </div>
                             <div class="app-form-group">
-                                <input id="input2" class="app-form-control" placeholder="INPUT 2">
+                                <input id="input2" class="app-form-control" placeholder="INPUT 2" autocomplete="off" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" />
                             </div>
                             <div class="app-form-group">
                                 <select name="calc" id="calc" class="app-form-control">
@@ -360,7 +360,7 @@
                                 </select>
                             </div>
                             <div class="app-form-group">
-                                <input id="result" class="app-form-control" placeholder="RESULT">
+                                <input id="result" class="app-form-control" placeholder="RESULT" autocomplete="off">
                             </div>
 
                             <div class="app-form-group buttons">
